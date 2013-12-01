@@ -9,7 +9,7 @@
   [name]
   (let [data {:name name
               :sanitized (name-to-path name)}]
-    (main/info "Generating fresh 'lein new' Vert.x project.")
+    (main/info "Generating fresh Vert.x clojure project.")
     (->files data
              ["project.clj", (render "project.clj" data)]
              ["LICENSE", (render "LICENSE" data)]
