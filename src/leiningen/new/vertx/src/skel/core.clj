@@ -1,4 +1,4 @@
-(ns sample-app.core
+(ns {{name}}.core
   (:require [vertx.core :as vertx]))
 
 (defn init
