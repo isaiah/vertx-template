@@ -1,4 +1,4 @@
-(defproject vertx/lein-template "0.1.0-SNAPSHOT"
+(defproject vertx/lein-template "0.1.0"
   :description "leiningen template project for vertx"
   :url "http://github.com/isaiah/vertx-template"
   :license {:name "Eclipse Public License"
