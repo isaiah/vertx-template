@@ -12,4 +12,6 @@
     (main/info "Generating fresh 'lein new' Vert.x project.")
     (->files data
              ["project.clj", (render "project.clj" data)]
+             ["LICENSE", (render "LICENSE" data)]
+             ["README.md", (render "README.md" data)]
              ["src/{{sanitized}}/core.clj" (render "src/skel/core.clj" data)])))

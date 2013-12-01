@@ -1,14 +1,14 @@
-# vertx-template
+# {{name}}
 
-A Leiningen template for Vert.x
+A vertx project that rocks!
 
 ## Usage
 
-lein new vertx myvertxproject
+FIXME
 
 ## License
 
-Copyright © 2013 Isaiah Peng
+Copyright © 2013 FIXME
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
