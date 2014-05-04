@@ -8,7 +8,7 @@ lein new vertx myvertxproject
 
 ## License
 
-Copyright © 2013 Isaiah Peng
+Copyright © 2014 Isaiah Peng
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
