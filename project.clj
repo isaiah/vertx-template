@@ -1,4 +1,4 @@
-(defproject vertx/lein-template "0.3.0"
+(defproject vertx/lein-template "0.3.1"
   :description "leiningen template project for vertx"
   :url "http://github.com/isaiah/vertx-template"
   :min-lein-version "2.0.0"
