@@ -3,8 +3,8 @@
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[org.clojure/clojure "1.5.1"]]
-  :plugins [[lein-vertx "0.3.0-SNAPSHOT"]]
+  :dependencies [[org.clojure/clojure "1.6.0"]]
+  :plugins [[lein-vertx "0.3.1-SNAPSHOT"]]
   :vertx {:main {{name}}.core/init
           :author "FIXME: Your name"
           :keywords ["FIXME: keywords"]
