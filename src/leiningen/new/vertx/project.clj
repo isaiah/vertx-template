@@ -4,7 +4,7 @@
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.6.0"]]
-  :plugins [[lein-vertx "0.3.1-SNAPSHOT"]]
+  :plugins [[lein-vertx "0.3.1"]]
   :vertx {:main {{name}}.core/init
           :author "FIXME: Your name"
           :keywords ["FIXME: keywords"]
